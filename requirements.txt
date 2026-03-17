@@ -1,0 +1,15 @@
+langchain
+langchain-community
+langchain-classic
+langchain-huggingface
+langchain-groq
+langchain-text-splitters
+langchainhub
+faiss-cpu
+pypdf
+sentence-transformers
+duckduckgo-search
+streamlit
+python-dotenv
+pandas
+ddgs
